@@ -1,19 +1,35 @@
 # Table of contents
 
-* [Introduccion](README.md)
+* [Sistema de Gestion Comercial](README.md)
 
-## Procesos de Negocio
+## Vision General
 
-* [Descripcion General](procesos/README.md)
+* [Descripcion del Sistema](vision-general/descripcion.md)
+* [Arquitectura](vision-general/arquitectura.md)
+* [Integraciones](vision-general/integraciones.md)
 
-## Casos de Uso
+## Modulos Funcionales
 
-* [Descripcion General](casos-de-uso/README.md)
+* [Ventas](modulos/ventas.md)
+* [Admisiones](modulos/admisiones.md)
+* [Cobros](modulos/cobros.md)
+* [Cajas](modulos/cajas.md)
+* [Cierre y Conciliacion](modulos/cierre.md)
+* [Clientes](modulos/clientes.md)
+* [Pacientes](modulos/pacientes.md)
+* [Medicos](modulos/medicos.md)
+* [Comprobantes](modulos/comprobantes.md)
+* [Configuracion](modulos/configuracion.md)
 
-## Guias de Usuario
+## Flujos de Negocio
 
-* [Descripcion General](guias/README.md)
+* [Venta de Servicio de Salud](flujos/venta-servicio-salud.md)
+* [Admision por Procedimiento](flujos/admision-procedimiento.md)
+* [Cobro de Pagos](flujos/cobro-pagos.md)
+* [Gestion de Caja Diaria](flujos/gestion-caja-diaria.md)
 
-## Glosario
+## Referencia
 
-* [Terminos y Conceptos](glosario/README.md)
+* [Glosario](glosario/README.md)
+* [Estados y Transiciones](referencia/estados.md)
+* [Tipos de Documento](referencia/tipos-documento.md)
