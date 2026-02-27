@@ -5,8 +5,13 @@
 ## Vision General
 
 * [Descripcion del Sistema](vision-general/descripcion.md)
-* [Arquitectura](vision-general/arquitectura.md)
-* [Integraciones](vision-general/integraciones.md)
+
+## Flujos de Negocio
+
+* [Venta de Servicio de Salud](flujos/venta-servicio-salud.md)
+* [Admision por Procedimiento](flujos/admision-procedimiento.md)
+* [Cobro de Pagos](flujos/cobro-pagos.md)
+* [Gestion de Caja Diaria](flujos/gestion-caja-diaria.md)
 
 ## Modulos Funcionales
 
@@ -20,13 +25,6 @@
 * [Medicos](modulos/medicos.md)
 * [Comprobantes](modulos/comprobantes.md)
 * [Configuracion](modulos/configuracion.md)
-
-## Flujos de Negocio
-
-* [Venta de Servicio de Salud](flujos/venta-servicio-salud.md)
-* [Admision por Procedimiento](flujos/admision-procedimiento.md)
-* [Cobro de Pagos](flujos/cobro-pagos.md)
-* [Gestion de Caja Diaria](flujos/gestion-caja-diaria.md)
 
 ## Referencia
 
